@@ -1,1 +1,0 @@
-print('Lindy Booth')

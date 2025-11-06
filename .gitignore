@@ -19,10 +19,16 @@ __pycache__/
 
 # C extensions
 *.so
+#Files
+temp.py
+perfomance.py
 
 # Distribution / packaging
 .Python
 build/
+output/
+data/
+temp/
 develop-eggs/
 dist/
 downloads/
@@ -38,7 +44,6 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
-data/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -123,4 +128,3 @@ venv.bak/
 # mypy
 .mypy_cache/
 .dmypy.json
-dmypy.json
